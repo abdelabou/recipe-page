@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/abdelabou/recipe-page](https://github.com/abdelabou/recipe-page)
-- Live Site URL: [https://abdelabou.github.io/recipe-page/](https://abdelabou.github.io/recipe-page/)
+- Live Site URL: [https://abdelabou.github.io/recipe-page/index.html](https://abdelabou.github.io/recipe-page/index.html)
 
 ## My process
 
