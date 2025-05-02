@@ -110,9 +110,13 @@ header figure img {
   font-family: "Outfit";
 }
 
-.preparation-time h3,
+.preparation-time h2,
 .preparation-time li::marker {
   color: var(--rose-800);
+}
+
+.preparation-time h2 {
+  font-size: 1rem;
 }
 
 h2,
@@ -172,11 +176,7 @@ td {
     width: 50%;
     border-radius: 1rem;
     padding: 3rem;
-  }
-
-  article {
-    border-radius: 1rem;
-    padding: 1rem;
+    border-radius: 2rem;
   }
 
   header figure img {
